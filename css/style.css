@@ -1,6 +1,6 @@
 
 body {
-    background-color: blueviolet;
+    background-color: rgb(219, 218, 158);
 }
 
 h1 {
@@ -11,6 +11,23 @@ h1 {
 h2 {
     color: deeppink;
 }
+
+div {
+    border: double cornflowerblue;
+}
+
+[class*="col"] {
+    float: left;
+    padding: 15px;
+}
+
+.row:after {
+    content: "";
+    clear: both;
+    display: both;
+}
+
+
 
 /* p
 figure
