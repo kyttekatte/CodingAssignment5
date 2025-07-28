@@ -1,0 +1,30 @@
+
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    background-color: black;
+    color: crimson;
+}
+
+h2 {
+    color: deeppink;
+}
+
+/* p
+figure
+img
+figcaption
+h3
+ul
+li
+fieldset
+legend
+input
+ol
+hr */
+
+footer {
+    text-align: right;
+}
